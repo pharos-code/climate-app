@@ -1,0 +1,10 @@
+pandas
+netCDF4
+xarray
+requests
+json
+numpy
+matplotlib
+seaborn
+geopy
+scipy
